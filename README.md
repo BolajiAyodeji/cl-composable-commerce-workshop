@@ -8,15 +8,14 @@ Digital commerce is evolving, and to meet up with the increasing demands of cust
 
 - [🎧 Overview]()
 - [🛠 Prerequisites]()
-- [🛒 Introducing Demo Stores]()
 - [🧱 Introduction to Composable Commerce]()
 - [🥂 Introduction to Microfrontends]()
-- [🧨 Introduction to Commerce Layer]()
+- [🛒 Introduction to Commerce Layer]()
 - [👨🏾‍🏫 Workshop Lessons]()
-- [🚀 What Next?]()
+- [🚀 What's Next?]()
 - [📑 Further Resources]()
 
-## Overview
+## 🎧 Overview
 
 Add the end of this workshop, you should be able to:
 
@@ -27,7 +26,7 @@ Add the end of this workshop, you should be able to:
 - Understand how to setup and use the Demo stores to build any kind of ecommerce solution.
 - Understand where to find and how to use other Commerce Layer devtools.
 
-## Prerequisites
+## 🛠 Prerequisites
 
 - Some JavaScript, command-line, and API knowledge are required.
 - A working programming IDE (I use vscode, you can try it too :winks:).
@@ -35,11 +34,11 @@ Add the end of this workshop, you should be able to:
 - You have set up a Commerce Layer organization and created the required commerce data resources for your market. You can follow this [onboarding tutorial](https://docs.commercelayer.io/developers/welcome/onboarding-tutorial) or [manual configuration guide](https://docs.commercelayer.io/developers/welcome/manual-configuration) to achieve this (**it's very important you do this before attending the workshop**).
 - Study these [data models](https://commercelayer.io/docs/data-model) to understand the key API entities, their mutual relationships, and common usage in Commerce Layer.
 
-## Introduction to Composable Commerce
+## 🧱 Introduction to Composable Commerce
 
 Lorem
 
-## Introduction to Microfrontends
+## 🥂 Introduction to Microfrontends
 
 Lorem
 
@@ -49,13 +48,13 @@ The following microfrontends are used in developing the Demo Stores project:
 - [Hosted Cart](https://github.com/commercelayer/commercelayer-cart)
 - [Hosted Checkout](https://github.com/commercelayer/commercelayer-react-checkout)
 
-## Introduction to Commerce Layer
+## 🛒 Introduction to Commerce Layer
 
 [Commerce Layer](https://commercelayer.io) is a composable commerce API for developers and brands. Whether you’re building a single-product store or an international ecommerce website to process millions of orders, Commerce Layer provides all the [APIs](https://docs.commercelayer.io/core/v/api-reference) and [developer tools](https://commercelayer.io/developers) you need to make any digital experience shoppable, anywhere.
 
 You can build a multi-language sales channel with your favorite web/mobile/CMS frameworks; then, add Commerce Layer for multi-currency prices, distributed inventory, localized payment gateways, promotions, orders, subscriptions, and much more.
 
-## Workshop Lessons
+## 👨🏾‍🏫 Workshop Lessons
 
 1. [Introducing Demo Stores](./lessons/01.md)
 2. [Getting Started with Commerce Layer](./lessons/02.md)
@@ -63,7 +62,7 @@ You can build a multi-language sales channel with your favorite web/mobile/CMS f
 4. [Building an Ecommerce Solution with Demo Stores](./lessons/04.md)
 5. [Deploying the Ecommerce Solution](./lessons/05.md)
 
-## What Next?
+## 🚀 What's Next?
 
 Lorem
 
@@ -72,6 +71,6 @@ Lorem
 - Contribute to the development of Demo Stores, Microstores, or other Commerce Layer OSS projects.
 - Ping us on Twitter [@commercelayer](https://twitter.com/commercelayer).
 
-## Further Resources
+## 📑 Further Resources
 
 Lorem
