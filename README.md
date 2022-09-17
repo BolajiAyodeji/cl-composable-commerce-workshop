@@ -57,11 +57,11 @@ You can build a multi-language sales channel with your favorite web/mobile/CMS f
 
 ## Workshop Lessons
 
-1. [Introducing Demo Stores]()
-2. [Getting Started with Commerce Layer]()
-3. [Installing and Configuring Demo Stores]()
-4. [Building an Ecommerce Solution with Demo Stores]()
-5. [Deploying the Ecommerce Solution]()
+1. [Introducing Demo Stores](./lessons/01.md)
+2. [Getting Started with Commerce Layer](./lessons/02.md)
+3. [Installing and Configuring Demo Stores](./lessons/03.md)
+4. [Building an Ecommerce Solution with Demo Stores](./lessons/04.md)
+5. [Deploying the Ecommerce Solution](./lessons/05.md)
 
 ## What Next?
 
