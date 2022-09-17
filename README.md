@@ -15,6 +15,8 @@ Digital commerce is evolving, and to meet up with the increasing demands of cust
 - [🚀 What's Next?]()
 - [📑 Further Resources]()
 
+---
+
 ## 🎧 Overview
 
 Add the end of this workshop, you should be able to:
