@@ -66,6 +66,11 @@ You can build a multi-language sales channel with your favorite web/mobile/CMS f
 
 Lorem
 
+- Join the [Slack community](https://slack.commercelayer.app)  to interact with Commerce Layer developers, staffs, partners, and customers.
+- Open a new [Q&A discussion](https://github.com/commercelayer/demo-store-core/discussions/categories/q-a) in the Demo Stores repository.
+- Contribute to the development of Demo Stores, Microstores, or other Commerce Layer OSS projects.
+- Ping us on Twitter [@commercelayer](https://twitter.com/commercelayer).
+
 ## Further Resources
 
 Lorem
