@@ -32,7 +32,8 @@ Add the end of this workshop, you should be able to:
 - Some JavaScript, command-line, and API knowledge are required.
 - A working programming IDE (I use vscode, you can try it too :winks:).
 - A Commerce Layer account ([create one here](https://dashboard.commercelayer.io/sign_up)).
-- You have set up a Commerce Layer organization and created the required commerce data resources for your market. You can follow this [onboarding tutorial](https://docs.commercelayer.io/developers/welcome/onboarding-tutorial) or [manual configuration guide](https://docs.commercelayer.io/developers/welcome/manual-configuration) to achieve this.
+- You have set up a Commerce Layer organization and created the required commerce data resources for your market. You can follow this [onboarding tutorial](https://docs.commercelayer.io/developers/welcome/onboarding-tutorial) or [manual configuration guide](https://docs.commercelayer.io/developers/welcome/manual-configuration) to achieve this (**it's very important you do this before attending the workshop**).
+- Study these [data models](https://commercelayer.io/docs/data-model) to understand the key API entities, their mutual relationships, and common usage in Commerce Layer.
 
 ## Introduction to Composable Commerce
 
