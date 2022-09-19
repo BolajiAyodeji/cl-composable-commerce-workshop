@@ -61,14 +61,14 @@ You can build a multi-language sales channel with your favorite web/mobile/CMS f
 1. [Introducing Demo Stores](./lessons/01.md)
 2. [Getting Started with Commerce Layer](./lessons/02.md)
 3. [Installing and Configuring Demo Stores](./lessons/03.md)
-4. [Building an Ecommerce Solution with Demo Stores](./lessons/04.md)
-5. [Deploying the Ecommerce Solution](./lessons/05.md)
+4. [Deploying the Ecommerce Solution](./lessons/04.md)
+5. [An Overveiw of Ecommerce Data Models](./lessons/05.md)
 
 ## 🚀 What's Next?
 
 Lorem
 
-- Join the [Slack community](https://slack.commercelayer.app)  to interact with Commerce Layer developers, staffs, partners, and customers.
+- Join the [Slack community](https://slack.commercelayer.app)  to interact with Commerce Layer developers, staff, partners, and customers.
 - Open a new [Q&A discussion](https://github.com/commercelayer/demo-store-core/discussions/categories/q-a) in the Demo Stores repository.
 - Contribute to the development of Demo Stores, Microstores, or other Commerce Layer OSS projects.
 - Ping us on Twitter [@commercelayer](https://twitter.com/commercelayer).
