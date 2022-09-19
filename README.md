@@ -19,21 +19,21 @@ Digital commerce is evolving, and to meet up with the increasing demands of cust
 
 ## 🎧 Overview
 
-Add the end of this workshop, you should be able to:
+Add the end of this workshop; you should be able to:
 
 - Explain what composable commerce is to your manager and friends.
-- Understand what microfrontends are, their benefits (especailly in ecommerce), and how they work.
+- Understand what microfrontends are, their benefits (especially in ecommerce), and how they work.
 - Understand the benefits of composable commerce to businesses as opposed to previous strategies.
 - Understand what Commerce Layer does and how to use the commerce APIs.
-- Understand how to setup and use the Demo stores to build any kind of ecommerce solution.
-- Understand where to find and how to use other Commerce Layer devtools.
+- Understand how to set up and use the Demo stores to build any ecommerce solution.
+- Understand where to find and how to use other Commerce Layer dev tools.
 
 ## 🛠 Prerequisites
 
 - Some JavaScript, command-line, and API knowledge are required.
-- A working programming IDE (I use vscode, you can try it too :winks:).
+- A working programming IDE (I use vscode; you can also try it).
 - A Commerce Layer account ([create one here](https://dashboard.commercelayer.io/sign_up)).
-- You have set up a Commerce Layer organization and created the required commerce data resources for your market. You can follow this [onboarding tutorial](https://docs.commercelayer.io/developers/welcome/onboarding-tutorial) or [manual configuration guide](https://docs.commercelayer.io/developers/welcome/manual-configuration) to achieve this (**it's very important you do this before attending the workshop**).
+- You have set up a Commerce Layer organization and created the required commerce data resources for your market. You can follow this [onboarding tutorial](https://docs.commercelayer.io/developers/welcome/onboarding-tutorial) or [manual configuration guide](https://docs.commercelayer.io/developers/welcome/manual-configuration) to achieve this (**you must do this before attending the workshop**).
 - Study these [data models](https://commercelayer.io/docs/data-model) to understand the key API entities, their mutual relationships, and common usage in Commerce Layer.
 
 ## 🧱 Introduction to Composable Commerce
@@ -48,7 +48,7 @@ Composable commerce allows developers to review, select, and utilize various ava
 
 A composable commerce solution includes:
 
-- Individual components (that are autonomously developed, deployed, and managed) targeted towards specific business requirements.
+- Individual components (that are autonomously developed, deployed, and managed) targeted toward specific business requirements.
 - APIs connecting each of these individual components.
 - The front-end presentation layer decoupled from the backend logic.
 - Integration with reliable API-first external services.
@@ -58,7 +58,7 @@ A composable commerce solution includes:
 
 ## 🥂 Introduction to Microfrontends
 
-Micro frontends extend the composability of microservices to the presentation layer, enabling maximum flexibility.
+Microfrontends extend the composability of microservices to the presentation layer, enabling maximum flexibility.
 
 ![](./assets/microfrontends.png)
 
