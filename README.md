@@ -38,11 +38,29 @@ Add the end of this workshop, you should be able to:
 
 ## 🧱 Introduction to Composable Commerce
 
-Lorem
+Composable commerce allows developers to review, select, and utilize various available commerce solutions as required to satisfy specific business needs. Developers can compose their development stack by selecting best-of-breed tools. Either from Jamstack tools, API-first solutions, headless solutions, composable microservices, or microfrontends.
+
+![](./assets/monolith.png)
+
+![](./assets/headless.png)
+
+![](./assets/composable.png)
+
+A composable commerce solution includes:
+
+- Individual components (that are autonomously developed, deployed, and managed) targeted towards specific business requirements.
+- APIs connecting each of these individual components.
+- The front-end presentation layer decoupled from the backend logic.
+- Integration with reliable API-first external services.
+- SAAS and cloud computing services.
+- Real-time data can be shared between applications with webhooks.
+- Possibilities to build any independent and agnostic internal application on top of the existing data and composable architecture.
 
 ## 🥂 Introduction to Microfrontends
 
-Lorem
+Micro frontends extend the composability of microservices to the presentation layer, enabling maximum flexibility.
+
+![](./assets/microfrontends.png)
 
 The following microfrontends are used in developing the Demo Stores project:
 
@@ -66,8 +84,7 @@ You can build a multi-language sales channel with your favorite web/mobile/CMS f
 
 ## 🚀 What's Next?
 
-Lorem
-
+- Build something nice for fun or that business idea you've always had and start selling!
 - Join the [Slack community](https://slack.commercelayer.app)  to interact with Commerce Layer developers, staff, partners, and customers.
 - Open a new [Q&A discussion](https://github.com/commercelayer/demo-store-core/discussions/categories/q-a) in the Demo Stores repository.
 - Contribute to the development of Demo Stores, Microstores, or other Commerce Layer OSS projects.
@@ -75,4 +92,5 @@ Lorem
 
 ## 📑 Further Resources
 
-Lorem
+- 
+- [Micro Frontends Comprehensive Guide](https://micro-frontends.org/)
