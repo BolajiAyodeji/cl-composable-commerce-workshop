@@ -6,14 +6,14 @@ Digital commerce is evolving, and to meet up with the increasing demands of cust
 
 ## TOCs
 
-- [🎧 Overview]()
-- [🛠 Prerequisites]()
-- [🧱 Introduction to Composable Commerce]()
-- [🥂 Introduction to Microfrontends]()
-- [🛒 Introduction to Commerce Layer]()
-- [👨🏾‍🏫 Workshop Lessons]()
-- [🚀 What's Next?]()
-- [📑 Further Resources]()
+- [🎧 Overview](#-overview)
+- [🛠 Prerequisites](#-prerequisites)
+- [🧱 Introduction to Composable Commerce](#-introduction-to-composable-commerce)
+- [🥂 Introduction to Microfrontends](#-introduction-to-microfrontends)
+- [🛒 Introduction to Commerce Layer](#-introduction-to-commerce-layer)
+- [👨🏾‍🏫 Workshop Lessons](#-workshop-lessons)
+- [🚀 What's Next?](#-whats-next)
+- [📑 Further Resources](#-further-resources)
 
 ---
 
