@@ -92,5 +92,9 @@ You can build a multi-language sales channel with your favorite web/mobile/CMS f
 
 ## 📑 Further Resources
 
-- 
-- [Micro Frontends Comprehensive Guide](https://micro-frontends.org/)
+- [Composable Commerce Guide](https://commercelayer.io/docs/core-concepts/composable-commerce)
+- [Micro Frontends Comprehensive Guide](https://micro-frontends.org)
+- [Commerce Layer Developer Resources](https://commercelayer.io/developers)
+- [Commerce Postman Collections](https://www.postman.com/commercelayer)
+- [Commerce Layer OSS Projects](https://github.com/commercelayer)
+- [Introducing Microstores](https://commercelayer.io/blog/introducing-microstores)
