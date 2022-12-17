@@ -1,6 +1,6 @@
 # Building an Ecommerce Solution with Commerce Layer Demo Stores
 
-Digital commerce is evolving, and to meet up with the increasing demands of customers, there is a need for businesses to build better shopping experiences. In this workshop, you will learn how **composable commerce APIs** and **micro-frontends** enable better developer/customer experience by [building an ecommerce store](https://github.com/BolajiAyodeji/arts-demo-store) with Commerce Layer, Demo Store, Nextjs, and some other dev tools.
+Digital commerce is evolving, and to meet up with the increasing demands of customers, there is a need for businesses to build better shopping experiences. In this workshop, you will learn how **composable commerce APIs** and **micro-frontends** enable better developer/customer experience by [building an ecommerce store](https://github.com/BolajiAyodeji/conf-swag-demo-store) with Commerce Layer, Demo Store, Nextjs, and some other dev tools.
 
 [![Demo Stores GIF](./assets/demo-stores.gif)](https://commercelayer.github.io/demo-store-core)
 
