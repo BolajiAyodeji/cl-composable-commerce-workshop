@@ -94,6 +94,7 @@ You can build a multi-language sales channel with your favorite composable frame
 
 - [Composable Commerce Guide](https://commercelayer.io/docs/core-concepts/composable-commerce)
 - [Micro Frontends Comprehensive Guide](https://micro-frontends.org)
+- [Git Submodules basic explanation](https://gist.github.com/gitaarik/8735255)
 - [Commerce Layer Developer Resources](https://commercelayer.io/developers)
 - [Commerce Postman Collections](https://www.postman.com/commercelayer)
 - [Commerce Layer OSS Projects](https://github.com/commercelayer)
